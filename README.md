@@ -1,2 +1,2 @@
 # ludo-game
-ludo game using html css javascript.
+A ludo game using html,css and javascript.
